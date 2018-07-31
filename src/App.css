@@ -1,0 +1,69 @@
+body{
+  background-color: #f7f7f7;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+.App-header{
+  color:#333;
+}
+.App {
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.add-btn{
+  float:left;
+}
+
+.column{
+  margin-top:40px;
+}
+
+button{
+  background-color: #544cb4;
+  border-radius: 20px;
+  border: 0px;
+  color: #fff;
+  font-size: 13px;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+button.search{
+  margin-left:10px
+}
+
+table tr th{
+  color:#c9c9c9;
+  font-size:12px;
+  font-weight:normal;
+  width:20%;
+}
+table tr td,table tr th{
+  text-align:center !important;
+}
+.table-bordered{
+  background-color: #fff;
+
+}
+.venue-names a{
+  color: #544cb4 !important;
+  text-decoration: underline !important;
+}
+.vote{
+    color:#333;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
