@@ -36,6 +36,6 @@ Your app is ready to be deployed!
 
 * css part of checkbox
 * more efficient algorithm for votes module
-* showing rating of app
+* showing rating of each venue
     
 ### Hope the design is self explanatory :-)
